@@ -14,9 +14,9 @@
 
 .card {
     border-radius: 10px 10px 10px 10px;
-    margin-top: 0%;
+    margin-top: 5%;
+    margin-block-end: 5%;
     background-color: white;
-    padding: 0%;
 }
 
 img {
@@ -27,13 +27,6 @@ img {
 .info, p {
     padding: 5%;
     margin-top: 3%;
-}
-
-.icon {
-    width:20%;
-    border-radius: 50px;
-    padding-right: 3%;
-    margin-inline-end: 3%;
 }
 
 .plan {
@@ -48,6 +41,21 @@ img {
     font-weight: 700;
     align-items: center;
     font-family: 'Red Hat Display', sans-serif;
+}
+
+.icon {
+    width:20%;
+    border-radius: 50px;
+    padding-right: 3%;
+    margin-inline-end: 3%;
+}
+
+.anualplan {
+/*Continua aqui*/
+}
+
+.valor {
+/*Continua aqui*/
 }
 
 a {
@@ -80,7 +88,7 @@ p {
 .btn1 {
     margin-top: 10%;
     border-radius: 10px 10px 10px 10px;
-    padding: 10px;
+    padding: 15px 80px ;
     border: none;
     background-color: hsl(245, 75%, 52%);
     color:hsl(225, 100%, 98%);
@@ -89,18 +97,12 @@ p {
 .btn2 {
     background-color:white;
     margin-top: 15px;
-    border-radius: 10%;
     border: none;
     font-weight: 700;
     color: hsl(224, 23%, 55%);
     margin-block-end: 10%;
 }
 
-.valor {
-    display: block;
-    background-color: aqua;
-    color:hsl(224, 23%, 55%);
-}
 
 /*Smartphone*/
 @media (min-width: 480px) {
