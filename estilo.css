@@ -9,6 +9,7 @@
 /*Header*/
 .container {
     padding: 5%;
+    background-image: url(images/pattern-background-desktop.svg);
     background-color:hsl(225, 100%, 94%);
 }
 
@@ -29,47 +30,32 @@ img {
     margin-top: 3%;
 }
 
-.plan {
-    padding: 15px 15px 15px 15px;
-    border-radius: 10px 10px 10px 10px;
-    background-color: hsl(225, 100%, 98%);
-    display: flex;
-    margin-left: 6%;
-    margin-right: 8%;
-    text-align: center;
-    font-size: 16px;
-    font-weight: 700;
-    align-items: center;
-    font-family: 'Red Hat Display', sans-serif;
+/*Planos*/
+.icone-music {
+    width: 17%;
 }
 
-.icon {
-    width:20%;
-    border-radius: 50px;
-    padding-right: 3%;
-    margin-inline-end: 3%;
-    margin-top: 1%;
+.planos {
+    margin: 10%;
 }
 
-.anualplan {
-    margin-top: -19%;
-    margin-left: 30%; 
-    padding:10;
-    font-weight: 900;
+h3 {
+    margin-left: 22%;
+    margin-top: -18%;
 }
 
 .valor {
     color:hsl(224, 23%, 55%);
-    margin-top:-10%;
-    margin-left: -25%;
+    margin-top:-5%;
+    margin-left:-18%;
 }
-
-a {
-    margin-left: 75%;
+.cta-change {
+    margin-left: 78%;
+    margin-top:-17%;
+    cursor: pointer;
 }
 
 /*Div.Info*/
-
 h2 {
     font-weight: 900;
     text-align: center;
@@ -92,12 +78,13 @@ p {
 }
 
 .btn1 {
-    margin-top: 10%;
+    margin-top: 25%;
     border-radius: 10px 10px 10px 10px;
-    padding: 15px 80px;
+    padding: 5px 80px;
     border: none;
     background-color: hsl(245, 75%, 52%);
     color:hsl(225, 100%, 98%);
+    cursor: pointer;
 }
 
 .btn2 {
@@ -107,6 +94,7 @@ p {
     font-weight: 700;
     color: hsl(224, 23%, 55%);
     margin-block-end: 10%;
+    cursor: pointer;
 }
 
 
