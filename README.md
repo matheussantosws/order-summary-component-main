@@ -27,7 +27,7 @@ Usuários devem ser capazes de:
 
 ### Screenshot
 
-![Screenshot](.assets/print.jpg)
+![Screenshot](assets/print.jpg)
 
 ### Links
 
