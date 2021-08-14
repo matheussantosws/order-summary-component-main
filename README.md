@@ -27,9 +27,7 @@ Usuários devem ser capazes de:
 
 ### Screenshot
 
-![Screenshot](./assets/print.jpg)
-![](./assets/print.jpg)
-https://youtu.be/Bxhbz7fjS5I
+![Screenshot](.assets/print.jpg)
 
 ### Links
 
