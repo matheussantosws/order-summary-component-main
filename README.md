@@ -31,7 +31,7 @@ Usuários devem ser capazes de:
 ### Links
 
 - URL do site online: [Live on Netlify](https://matheussantosws.github.io/order-summary-component-main/)
-
+- URL do site Youtube: [Live on Netlify](https://www.youtube.com/watch?v=Bxhbz7fjS5I)
 ### Construído com
 
 - Marcação semantica HTML5
