@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
 
-Essa é a solução para o desafio [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Os desafios de Frontend Mentor ajudam você a melhorar suas habilidades de programação por construir projetos realistas.
+Essa é a solução para o desafio [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Os desafios de Frontend Mentor ajudam você a melhorar suas habilidades de programação por construir projetos realistas.
 
 ## Tabela de conteúdos
 
@@ -26,14 +26,12 @@ Usuários devem ser capazes de:
 
 ### Screenshot
 
-![](./assets/screenshots/desktop.png)
+![Screenshot](assets/)
 ![](./assets/screenshots/mobile.png)
 
 ### Links
 
-- URL do site online: [Live on Netlify](https://elastic-swanson-8c86b9.netlify.app/)
-
-## Meu processo
+- URL do site online: [Live on Netlify](https://matheussantosws.github.io/order-summary-component-main/)
 
 ### Construído com
 
@@ -44,7 +42,7 @@ Usuários devem ser capazes de:
 
 ### O que eu aprendi
 
-Esse foi um desafio muito bom, porque consegui entender como funciona na prática o flexbox e DIV container e suas funcionalidades. 
+Esse foi um desafio muito bom, porque consegui entender como funciona na prática as DIVs, o flexbox, e container e suas funcionalidades. E os Breakpoints para cada resolução de tela de 320px a 1020.
 
 ### Desenvolvimento contínuo
 
@@ -55,8 +53,3 @@ Eu estou querendo ainda mais solidificar meus conhecimentos em flexbox para melh
 Matheus
 
 - Instagram - [@matheus_santosof](https://www.instagram.com/matheus_santosof/)
-
-## Agradecimentos
-
-Renato Novaes - Pela Mentoria
-Lucas Lima - Pelo Incentivo
