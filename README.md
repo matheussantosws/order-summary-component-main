@@ -26,7 +26,6 @@ Usuários devem ser capazes de:
 - Ver estados de foco para elementos interativos
 
 ### Screenshot
-![](./assets/print.jpeg)
 ![Screenshot](assets/print.jpeg)
 
 ### Links
